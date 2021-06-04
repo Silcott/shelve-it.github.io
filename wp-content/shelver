@@ -1,0 +1,480 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="en" prefix="og: http://ogp.me/ns#"> <![endif]-->
+<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8" lang="en" prefix="og: http://ogp.me/ns#"> <![endif]-->
+<!--[if IE 8]>         <html class="no-js lt-ie9" lang="en" prefix="og: http://ogp.me/ns#"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en" prefix="og: http://ogp.me/ns#"> <!--<![endif]-->
+<head>
+  <meta charset="utf-8">
+  <title>Shelve-it Full Screen - Mrs Lodge&#039;s Library</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  
+<!-- This site is optimized with the Yoast SEO plugin v3.1.2 - https://yoast.com/wordpress/plugins/seo/ -->
+<meta name="description" content="Teach your students how to arrange books in call number order with this fun interactive teaching tool"/>
+<meta name="robots" content="noodp"/>
+<link rel="canonical" href="http://www.mrs-lodges-library.com/shelver/" />
+<meta property="og:locale" content="en_US" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="Shelve-it Full Screen - Mrs Lodge&#039;s Library" />
+<meta property="og:description" content="Teach your students how to arrange books in call number order with this fun interactive teaching tool" />
+<meta property="og:url" content="http://www.mrs-lodges-library.com/shelver/" />
+<meta property="og:site_name" content="Mrs Lodge&#039;s Library" />
+<!-- / Yoast SEO plugin. -->
+
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/72x72\/","ext":".png","source":{"concatemoji":"\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.4.23"}};
+			!function(a,b,c){function d(a){var c,d,e,f=b.createElement("canvas"),g=f.getContext&&f.getContext("2d"),h=String.fromCharCode;return g&&g.fillText?(g.textBaseline="top",g.font="600 32px Arial","flag"===a?(g.fillText(h(55356,56806,55356,56826),0,0),f.toDataURL().length>3e3):"diversity"===a?(g.fillText(h(55356,57221),0,0),c=g.getImageData(16,16,1,1).data,g.fillText(h(55356,57221,55356,57343),0,0),c=g.getImageData(16,16,1,1).data,e=c[0]+","+c[1]+","+c[2]+","+c[3],d!==e):("simple"===a?g.fillText(h(55357,56835),0,0):g.fillText(h(55356,57135),0,0),0!==g.getImageData(16,16,1,1).data[0])):!1}function e(a){var c=b.createElement("script");c.src=a,c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g;c.supports={simple:d("simple"),flag:d("flag"),unicode8:d("unicode8"),diversity:d("diversity")},c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.simple&&c.supports.flag&&c.supports.unicode8&&c.supports.diversity||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel="stylesheet" href="/plugins/dw-shortcodes-bootstrap/assets/css/bootstrap.css?ver=4.4.23">
+<link rel="stylesheet" href="/plugins/dw-shortcodes-bootstrap/assets/css/shortcodes.css?ver=4.4.23">
+<link rel="stylesheet" href="/plugins/LayerSlider/css/layerslider.css?ver=4.6.0">
+<link rel="stylesheet" href="/plugins/contact-form-7/includes/css/styles.css?ver=4.4">
+<link rel="stylesheet" href="/plugins/latest-custom-post-type-updates/css/tm_lcptu_basic_styles.css?ver=1.3.0">
+<link rel="stylesheet" href="/plugins/smart-recent-post/css/smartPostStyle.css?ver=4.4.23">
+<link rel="stylesheet" href="/assets/css/bootstrap.css">
+<link rel="stylesheet" href="/assets/css/bootstrap-responsive.css">
+<link rel="stylesheet" href="/assets/css/app.css">
+<link rel="stylesheet" href="/plugins/thethe-captcha/style/style.css?ver=4.4.23">
+<!-- This site uses the Google Analytics by Yoast plugin v5.4.6 - Universal enabled - https://yoast.com/wordpress/plugins/google-analytics/ -->
+<script type="text/javascript">
+	(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+		(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+		m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+	})(window,document,'script','//www.google-analytics.com/analytics.js','__gaTracker');
+
+	__gaTracker('create', 'UA-38021740-1', 'auto');
+	__gaTracker('set', 'forceSSL', true);
+	__gaTracker('send','pageview');
+
+</script>
+<!-- / Google Analytics by Yoast -->
+<script type='text/javascript' src='//ajax.googleapis.com/ajax/libs/jquery/1.10.1/jquery.min.js'></script>
+<script>window.jQuery || document.write('<script src="http://www.mrs-lodges-library.com/assets/js/vendor/jquery-1.10.1.min.js"><\/script>')</script>
+<script type='text/javascript' src='/plugins/dw-shortcodes-bootstrap/assets/js/bootstrap.js?ver=4.4.23'></script>
+<script type='text/javascript' src='/plugins/LayerSlider/js/layerslider.kreaturamedia.jquery.js?ver=4.6.0'></script>
+<script type='text/javascript' src='/plugins/LayerSlider/js/jquery-easing-1.3.js?ver=1.3.0'></script>
+<script type='text/javascript' src='/plugins/LayerSlider/js/jquerytransit.js?ver=0.9.9'></script>
+<script type='text/javascript' src='/plugins/LayerSlider/js/layerslider.transitions.js?ver=4.6.0'></script>
+<script type='text/javascript' src='/assets/js/vendor/modernizr-2.6.2.min.js'></script>
+<link rel='https://api.w.org/' href='http://www.mrs-lodges-library.com/wp-json/' />
+<link rel="alternate" type="application/json+oembed" href="http://www.mrs-lodges-library.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fwww.mrs-lodges-library.com%2Fshelver%2F" />
+<link rel="alternate" type="text/xml+oembed" href="http://www.mrs-lodges-library.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fwww.mrs-lodges-library.com%2Fshelver%2F&#038;format=xml" />
+
+  <link rel="alternate" type="application/rss+xml" title="Mrs Lodge&#039;s Library Feed" href="http://www.mrs-lodges-library.com/feed/">
+
+<script src="//cdnjs.cloudflare.com/ajax/libs/jquery.imagesloaded/3.0.4/jquery.imagesloaded.js"></script>
+
+
+
+<link href='http://fonts.googleapis.com/css?family=Lato:100,300,400,700,900' rel='stylesheet' type='text/css'>
+<link href='http://fonts.googleapis.com/css?family=Rum+Raisin|Delius' rel='stylesheet' type='text/css'>
+<link href='http://fonts.googleapis.com/css?family=Coming+Soon' rel='stylesheet' type='text/css'>
+
+
+<script src="http://www.mrs-lodges-library.com/wp-content/themes/roots/assets/js/lightbox2/css/lightbox.css"></script>
+
+
+<!-- start Mixpanel --><script type="text/javascript">(function(e,b){if(!b.__SV){var a,f,i,g;window.mixpanel=b;a=e.createElement("script");a.type="text/javascript";a.async=!0;a.src=("https:"===e.location.protocol?"https:":"http:")+'//cdn.mxpnl.com/libs/mixpanel-2.2.min.js';f=e.getElementsByTagName("script")[0];f.parentNode.insertBefore(a,f);b._i=[];b.init=function(a,e,d){function f(b,h){var a=h.split(".");2==a.length&&(b=b[a[0]],h=a[1]);b[h]=function(){b.push([h].concat(Array.prototype.slice.call(arguments,0)))}}var c=b;"undefined"!==
+typeof d?c=b[d]=[]:d="mixpanel";c.people=c.people||[];c.toString=function(b){var a="mixpanel";"mixpanel"!==d&&(a+="."+d);b||(a+=" (stub)");return a};c.people.toString=function(){return c.toString(1)+".people (stub)"};i="disable track track_pageview track_links track_forms register register_once alias unregister identify name_tag set_config people.set people.set_once people.increment people.append people.track_charge people.clear_charges people.delete_user".split(" ");for(g=0;g<i.length;g++)f(c,i[g]);
+b._i.push([a,e,d])};b.__SV=1.2}})(document,window.mixpanel||[]);
+mixpanel.init("3d19efb794cdeb2d7b98d10b0bced740");</script><!-- end Mixpanel -->
+
+</head>
+
+
+<body class="page page-id-142 page-template page-template-template-shelveit-standalone page-template-template-shelveit-standalone-php shelver">
+
+  <!--[if lt IE 7]><div class="alert">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</div><![endif]-->
+
+
+
+
+  <div class="wrap container" role="document">
+    <div class="content row">
+      <div class="main span8" role="main">
+        
+
+
+  	</div> <!-- span8  from original page-->
+</div> <!-- //row -->
+
+<!-- CONTENT-SHELVEIT-FULL.PHP  -->
+    <div class="content row">
+      <div class="main span12" role="main">
+	
+
+
+
+    <!-- Stylesheets -->
+    <link href='http://fonts.googleapis.com/css?family=Delius+Swash+Caps' rel='stylesheet' type='text/css'>
+    
+    
+    <link rel="stylesheet" href="../wp-content/themes/roots/shelveit/css/style.css" />
+    <link rel="stylesheet" href="../wp-content/themes/roots/shelveit/css/animate.css" />
+    <link rel="stylesheet" href="../wp-content/themes/roots/shelveit/css/jquery-ui.css" />
+
+
+    
+
+      
+<style>
+body {
+    background: url('http://www.mrslodgeslibrary.com/wp-content/themes/roots/shelveit/img/background.png');
+
+}
+h1 {
+	color: #fff;
+}
+</style>
+    
+        <!-- FAVICON -->
+
+
+
+
+
+
+<div id="wrapper">
+<a href="#" class="show-abc hiding">Show Alphabet</a>
+
+<div id="abc-wrapper" style='display:none'>
+  <div id="abc-inner">A B C D E F G H I J K L M N O P Q R S T U V W X Y Z</div>
+  </div>
+
+
+<!-- LOGO AT TOP OF SHELF -->
+<div id="logo"><img src="../wp-content/themes/roots/shelveit/img/bookstack.png"><span id="logo-text">
+     
+
+<a href="/">Mrs. Lodge's Library</a></span></div>
+
+<!-- CHECK ORDER OF BOOKS -->   
+<button style="display:none" class="button wood checkorder" id="check">Check My Shelf</button>
+
+
+
+
+<!-- MAIN BOOKSHELF SORTING
+======================================================================================== -->
+<div id="bookshelf">
+
+    <div id="sortable"> 
+        <div class='ui-state-default spineContainer'> </div> <!-- Required for js loop appending new books for sorting to work properly -->
+    </div><!-- /sortable --> 
+</div><!-- /bookshelf -->
+
+
+
+
+<!-- MAIN MENU 
+======================================================================================== -->
+
+<div id="mainMenuBtn" style="display:none">   <!--button to open menu -->
+    <button class="btn-open-menu button wood">Main Menu</button>
+</div> 
+
+
+<div id="menu">
+        
+        <button id="close-menu" class="close-menu-btn">X</button>
+        <h1>Shelver</h1>
+        <ul>
+            <li>    <button class="btn1" id="menu_newgame">New Game</button>    </li>
+            <li>    <button class="btn1" id="howtobtn">How to Play</button>     </li> 
+            <li>    <button class="btn1" id="aboutbtn">About</button>           </li>
+        </ul>
+
+
+        
+</div><!-- /menu -->   
+
+
+<!-- NEW GAME POPOUT
+======================================================================================== -->
+
+
+<div id="new-game" style="display:none">
+    
+    <button id="close-new-game" class="btn-close-newgame">X</button>
+        <img id="small-owl" src="../wp-content/themes/roots/shelveit/img/owl.png">
+
+        <div class='instruction'>Let's Play!</div>
+        <ul>
+            <li> <button class="btn1 levelbtn" data-gametype="" id="3">Level 1<br><small>(3 books)</small> </button></li>  <!-- id numbers = number of books shown -->
+            <li> <button class="btn1 levelbtn" data-gametype="" id="5">Level 2<br><small>(5 books)</small> </button></li>
+            <li> <button class="btn1 levelbtn" data-gametype="" id="8">Level 3<br><small>(8 books)</small></button></li>
+        </ul>
+               
+</div><!-- /new-game -->   
+
+
+
+<!-- Type of game -->
+<div id="new-game-type" style="display:none">
+
+     <div class='instruction'> Choose a Section</div>
+    
+        <ul>
+            <li> <button class="btn1 gameTypeSelection" id="type?booksFIC">Fiction</button></li> 
+            <li> <button class="btn1 gameTypeSelection" id="type?booksDEW">Dewey</button></li>
+        </ul>    
+    
+        <button id="typeBack" class='close-menu-btn'>X</button>
+
+
+</div><!-- /new-game -->   
+
+
+
+
+
+<!-- How to play instructions
+======================================================================================== -->
+        
+<div id="howto" class="howto" style="display:none"> 
+
+         <div class='instruction'> How to play Shelver </div>
+      
+         <h2> Your job is to put the books in call number order</h2>
+                <ul>
+<!--                  <li>Fiction books are in ABC order by author’s last name.  
+                  The call number at the bottom of the book spine will help you 
+                  figure out the correct order.  FIC stands for fiction and the 
+                  other three letters are the first three letters of the author’s 
+                  last name.</li> -->
+                </ul>
+                <br>
+
+           <h2>To start a new game, choose a level</h2>
+                <ul>
+                    <li>Level 1 is the easiest and level 3 is the hardest.</li>
+                </ul>
+                <br>
+
+           <h2>Once you choose a level, your books will appear on the shelf</h2>
+                <ul>
+                    <li>Click on a book with your mouse (or your finger on a touch device) and hold down 
+						while dragging it into the correct order.</li>
+                    <li>When you think your books are in the correct order, 
+                        click the <strong>Check My Shelf</strong> button at the top of the screen 
+                        to see if you are right.</li>           
+                </ul>
+   
+    <button id="howtoBackbtn" class="howtoBackImg">X</button>
+
+</div> <!-- /howto -->
+
+
+
+<!-- About Mrs Lodges Library
+======================================================================================== -->
+        
+<div id="about" class="about" style="display:none"> 
+    
+     <div class='instruction'> About Shelver</div>
+     
+        <p>Mrs. Lodge is a library teacher in an elementary school.  
+            She loves to see her students be independent learners in the library.  
+            Students in her library check out their own books and are working hard 
+            to find books they want using call numbers.  Mrs. Lodge wanted a fun way 
+            for students to practice putting books in order so they can better 
+            understand call numbers.  She asked Mr. Lodge, a web developer, 
+            to help her make a game for her students and together they created Shelver.</p>
+            
+            <p>Mr. and Mrs. Lodge are working hard to develop more apps that teach library skills. 
+                Learn more about Mrs. Lodge's Library at <a href="http://www.Mrs-Lodges-Library.com" target="_blank">Mrs-Lodges-Library.com</a>
+            </p>
+    <button id="aboutbackbtn" class="aboutBackImg">X</button>
+    
+      
+</div> <!-- /about -->
+
+
+
+<!-- NOTIFICATIONS
+======================================================================================== -->
+
+<!--  Success Box -->   
+<img style="display:none" id="bubble-success" src="../wp-content/themes/roots/shelveit/img/bubble-success.png"> 
+
+<!-- Fail Box -->
+<img style="display:none" id="bubble-fail" src="../wp-content/themes/roots/shelveit/img/bubble-fail-2.png"> 
+
+
+<div class="copyright"><small>&copy; Mrs. Lodge's Library 2013. All rights reserved.</small></div>
+</div> <!-- /wrapper -->
+
+<div id="preload">    
+   <img class='bookImage' data-status='1' data-booktype='booksFIC' src="../wp-content/themes/roots/shelveit/img/spines/fic/spine0.png" width="1" height="1" alt="preloadedimage" />
+   <img class='bookImage' data-status='1' data-booktype='booksFIC' src="../wp-content/themes/roots/shelveit/img/spines/fic/spine1.png" width="1" height="1" alt="preloadedimage" />
+   <img class='bookImage' data-status='1' data-booktype='booksFIC' src="../wp-content/themes/roots/shelveit/img/spines/fic/spine2.png" width="1" height="1" alt="preloadedimage" />
+   <img class='bookImage' data-status='1' data-booktype='booksFIC' src="../wp-content/themes/roots/shelveit/img/spines/fic/spine3.png" width="1" height="1" alt="preloadedimage" />
+   <img class='bookImage' data-status='1' data-booktype='booksFIC' src="../wp-content/themes/roots/shelveit/img/spines/fic/spine4.png" width="1" height="1" alt="preloadedimage" />
+   <img class='bookImage' data-status='1' data-booktype='booksFIC' src="../wp-content/themes/roots/shelveit/img/spines/fic/spine5.png" width="1" height="1" alt="preloadedimage" />
+   <img class='bookImage' data-status='1' data-booktype='booksFIC' src="../wp-content/themes/roots/shelveit/img/spines/fic/spine6.png" width="1" height="1" alt="preloadedimage" />
+   <img class='bookImage' data-status='1' data-booktype='booksFIC' src="../wp-content/themes/roots/shelveit/img/spines/fic/spine7.png" width="1" height="1" alt="preloadedimage" />
+   <img class='bookImage' data-status='1' data-booktype='booksFIC' src="../wp-content/themes/roots/shelveit/img/spines/fic/spine8.png" width="1" height="1" alt="preloadedimage" />
+   <img class='bookImage' data-status='1' data-booktype='booksFIC' src="../wp-content/themes/roots/shelveit/img/spines/fic/spine9.png" width="1" height="1" alt="preloadedimage" />
+   <img class='bookImage' data-status='1' data-booktype='booksFIC' src="../wp-content/themes/roots/shelveit/img/spines/fic/spine10.png" width="1" height="1" alt="preloadedimage" />
+   <img class='bookImage' data-status='1' data-booktype='booksFIC' src="../wp-content/themes/roots/shelveit/img/spines/fic/spine11.png" width="1" height="1" alt="preloadedimage" />
+   <img class='bookImage' data-status='1' data-booktype='booksFIC' src="../wp-content/themes/roots/shelveit/img/spines/fic/spine12.png" width="1" height="1" alt="preloadedimage" />
+   <img class='bookImage' data-status='1' data-booktype='booksFIC' src="../wp-content/themes/roots/shelveit/img/spines/fic/spine13.png" width="1" height="1" alt="preloadedimage" />
+   <img class='bookImage' data-status='1' data-booktype='booksFIC' src="../wp-content/themes/roots/shelveit/img/spines/fic/spine14.png" width="1" height="1" alt="preloadedimage" />
+   <img class='bookImage' data-status='1' data-booktype='booksFIC' src="../wp-content/themes/roots/shelveit/img/spines/fic/spine15.png" width="1" height="1" alt="preloadedimage" />
+   <img class='bookImage' data-status='1' data-booktype='booksFIC' src="../wp-content/themes/roots/shelveit/img/spines/fic/spine16.png" width="1" height="1" alt="preloadedimage" />
+   <img class='bookImage' data-status='1' data-booktype='booksFIC' src="../wp-content/themes/roots/shelveit/img/spines/fic/spine17.png" width="1" height="1" alt="preloadedimage" />
+   <img class='bookImage' data-status='1' data-booktype='booksFIC' src="../wp-content/themes/roots/shelveit/img/spines/fic/spine18.png" width="1" height="1" alt="preloadedimage" />
+   <img class='bookImage' data-status='1' data-booktype='booksFIC' src="../wp-content/themes/roots/shelveit/img/spines/fic/spine19.png" width="1" height="1" alt="preloadedimage" />
+   <img class='bookImage' data-status='1' data-booktype='booksFIC' src="../wp-content/themes/roots/shelveit/img/spines/fic/spine20.png" width="1" height="1" alt="preloadedimage" />
+   <img class='bookImage' data-status='1' data-booktype='booksFIC' src="../wp-content/themes/roots/shelveit/img/spines/fic/spine21.png" width="1" height="1" alt="preloadedimage" />
+   <img class='bookImage' data-status='1' data-booktype='booksFIC' src="../wp-content/themes/roots/shelveit/img/spines/fic/spine21.png" width="1" height="1" alt="preloadedimage" />
+   <img class='bookImage' data-status='1' data-booktype='booksFIC' src="../wp-content/themes/roots/shelveit/img/spines/fic/spine22.png" width="1" height="1" alt="preloadedimage" />
+   <img class='bookImage' data-status='1' data-booktype='booksFIC' src="../wp-content/themes/roots/shelveit/img/spines/fic/spine23.png" width="1" height="1" alt="preloadedimage" />
+   <img class='bookImage' data-status='1' data-booktype='booksFIC' src="../wp-content/themes/roots/shelveit/img/spines/fic/spine24.png" width="1" height="1" alt="preloadedimage" />
+   <img class='bookImage' data-status='1' data-booktype='booksFIC' src="../wp-content/themes/roots/shelveit/img/spines/fic/spine25.png" width="1" height="1" alt="preloadedimage" />
+   <img class='bookImage' data-status='1' data-booktype='booksFIC' src="../wp-content/themes/roots/shelveit/img/spines/fic/spine26.png" width="1" height="1" alt="preloadedimage" />
+   <img class='bookImage' data-status='1' data-booktype='booksFIC' src="../wp-content/themes/roots/shelveit/img/spines/fic/spine27.png" width="1" height="1" alt="preloadedimage" />
+   <img class='bookImage' data-status='1' data-booktype='booksFIC' src="../wp-content/themes/roots/shelveit/img/spines/fic/spine28.png" width="1" height="1" alt="preloadedimage" />
+   <img class='bookImage' data-status='1' data-booktype='booksFIC' src="../wp-content/themes/roots/shelveit/img/spines/fic/spine29.png" width="1" height="1" alt="preloadedimage" />
+   <img class='bookImage' data-status='1' data-booktype='booksFIC' src="../wp-content/themes/roots/shelveit/img/spines/fic/spine30.png" width="1" height="1" alt="preloadedimage" />
+   <img class='bookImage' data-status='1' data-booktype='booksFIC' src="../wp-content/themes/roots/shelveit/img/spines/fic/spine31.png" width="1" height="1" alt="preloadedimage" />
+   <img class='bookImage' data-status='1' data-booktype='booksFIC' src="../wp-content/themes/roots/shelveit/img/spines/fic/spine32.png" width="1" height="1" alt="preloadedimage"    />
+                   
+               
+<img class="bookImage booksDEW" data-status="1" data-booktype="booksDEW" src="../wp-content/themes/roots/shelveit/img/spines/dew/523.43_GEA.jpg" width="1" height="1" alt="preloadedimage">
+<img class="bookImage booksDEW" data-status="1" data-booktype="booksDEW" src="../wp-content/themes/roots/shelveit/img/spines/dew/523.41_GRA.jpg" width="1" height="1" alt="preloadedimage">
+<img class="bookImage booksDEW" data-status="1" data-booktype="booksDEW" src="../wp-content/themes/roots/shelveit/img/spines/dew/551.56_WIL.jpg" width="1" height="1" alt="preloadedimage">
+<img class="bookImage booksDEW" data-status="1" data-booktype="booksDEW" src="../wp-content/themes/roots/shelveit/img/spines/dew/133.1_URI.jpg" width="1" height="1" alt="preloadedimage">
+<img class="bookImage booksDEW" data-status="1" data-booktype="booksDEW" src="../wp-content/themes/roots/shelveit/img/spines/dew/595.7_WAL.jpg" width="1" height="1" alt="preloadedimage">
+<img class="bookImage booksDEW" data-status="1" data-booktype="booksDEW" src="../wp-content/themes/roots/shelveit/img/spines/dew/966.7_KAT.jpg" width="1" height="1" alt="preloadedimage">
+<img class="bookImage booksDEW" data-status="1" data-booktype="booksDEW" src="../wp-content/themes/roots/shelveit/img/spines/dew/743_BAS.jpg" width="1" height="1" alt="preloadedimage">
+
+<img class="bookImage booksDEW" data-status="1" data-booktype="booksDEW" src="../wp-content/themes/roots/shelveit/img/spines/dew/796.357_ELL.jpg" width="1" height="1" alt="preloadedimage">
+
+<!--
+	<img class="bookImage booksDEW" data-status="1" data-booktype="booksDEW" src="../wp-content/themes/roots/shelveit/img/spines/dew/796.334_ELL.jpg" width="1" height="1" alt="preloadedimage">
+<img class="bookImage booksDEW" data-status="1" data-booktype="booksDEW" src="../wp-content/themes/roots/shelveit/img/spines/dew/796.962_ELL.jpg" width="1" height="1" alt="preloadedimage">
+<img class="bookImage booksDEW" data-status="1" data-booktype="booksDEW" src="../wp-content/themes/roots/shelveit/img/spines/dew/796.342_ELL.jpg" width="1" height="1" alt="preloadedimage">
+<img class="bookImage booksDEW" data-status="1" data-booktype="booksDEW" src="../wp-content/themes/roots/shelveit/img/spines/dew/796.323_ELL.jpg" width="1" height="1" alt="preloadedimage"> -->
+
+
+<img class="bookImage booksDEW" data-status="1" data-booktype="booksDEW" src="../wp-content/themes/roots/shelveit/img/spines/dew/292_ROS.jpg" width="1" height="1" alt="preloadedimage">
+<img class="bookImage booksDEW" data-status="1" data-booktype="booksDEW" src="../wp-content/themes/roots/shelveit/img/spines/dew/932_Wall.jpg" width="1" height="1" alt="preloadedimage">
+
+<img class="bookImage booksDEW" data-status="1" data-booktype="booksDEW" src="../wp-content/themes/roots/shelveit/img/spines/dew/001.942_URI.jpg" width="1" height="1" alt="preloadedimage">
+<img class="bookImage booksDEW" data-status="1" data-booktype="booksDEW" src="../wp-content/themes/roots/shelveit/img/spines/dew/613.7_ADA.jpg" width="1" height="1" alt="preloadedimage">
+<img class="bookImage booksDEW" data-status="1" data-booktype="booksDEW" src="../wp-content/themes/roots/shelveit/img/spines/dew/593.95_WIL.jpg" width="1" height="1" alt="preloadedimage">
+<img class="bookImage booksDEW" data-status="1" data-booktype="booksDEW" src="../wp-content/themes/roots/shelveit/img/spines/dew/513.2_CUR.jpg" width="1" height="1" alt="preloadedimage">
+
+<img class="bookImage booksDEW" data-status="1" data-booktype="booksDEW" src="../wp-content/themes/roots/shelveit/img/spines/dew/994_LAR.jpg" width="1" height="1" alt="preloadedimage">
+<img class="bookImage booksDEW" data-status="1" data-booktype="booksDEW" src="../wp-content/themes/roots/shelveit/img/spines/dew/641.86_ADA.jpg" width="1" height="1" alt="preloadedimage">
+<img class="bookImage booksDEW" data-status="1" data-booktype="booksDEW" src="../wp-content/themes/roots/shelveit/img/spines/dew/972_GES.jpg" width="1" height="1" alt="preloadedimage">
+<img class="bookImage booksDEW" data-status="1" data-booktype="booksDEW" src="../wp-content/themes/roots/shelveit/img/spines/dew/027_SCH.jpg" width="1" height="1" alt="preloadedimage">
+<img class="bookImage booksDEW" data-status="1" data-booktype="booksDEW" src="../wp-content/themes/roots/shelveit/img/spines/dew/523.3_PAR.jpg" width="1" height="1" alt="preloadedimage">
+<img class="bookImage booksDEW" data-status="1" data-booktype="booksDEW" src="../wp-content/themes/roots/shelveit/img/spines/dew/363.72_BUR.jpg" width="1" height="1" alt="preloadedimage">
+<img class="bookImage booksDEW" data-status="1" data-booktype="booksDEW" src="../wp-content/themes/roots/shelveit/img/spines/dew/523.48_CLA.jpg" width="1" height="1" alt="preloadedimage">
+<img class="bookImage booksDEW" data-status="1" data-booktype="booksDEW" src="../wp-content/themes/roots/shelveit/img/spines/dew/598.6_MCC.jpg" width="1" height="1" alt="preloadedimage">
+<img class="bookImage booksDEW" data-status="1" data-booktype="booksDEW" src="../wp-content/themes/roots/shelveit/img/spines/dew/736_BER.jpg" width="1" height="1" alt="preloadedimage">
+<img class="bookImage booksDEW" data-status="1" data-booktype="booksDEW" src="../wp-content/themes/roots/shelveit/img/spines/dew/419_YOU.jpg" width="1" height="1" alt="preloadedimage">
+<img class="bookImage booksDEW" data-status="1" data-booktype="booksDEW" src="../wp-content/themes/roots/shelveit/img/spines/dew/910.4_GRI.jpg" width="1" height="1" alt="preloadedimage">
+<img class="bookImage booksDEW" data-status="1" data-booktype="booksDEW" src="../wp-content/themes/roots/shelveit/img/spines/dew/952_OSA.jpg" width="1" height="1" alt="preloadedimage">
+<img class="bookImage booksDEW" data-status="1" data-booktype="booksDEW" src="../wp-content/themes/roots/shelveit/img/spines/dew/621.8_CRO.jpg" width="1" height="1" alt="preloadedimage">
+
+<img class="bookImage booksDEW" data-status="1" data-booktype="booksDEW" src="../wp-content/themes/roots/shelveit/img/spines/dew/398.2_VIB.jpg" width="1" height="1" alt="preloadedimage">
+<!-- <img class="bookImage booksDEW" data-status="1" data-booktype="booksDEW" src="../wp-content/themes/roots/shelveit/img/spines/dew/398.2_22.jpg" width="1" height="1" alt="preloadedimage"> -->
+<!-- <img class="bookImage booksDEW" data-status="1" data-booktype="booksDEW" src="../wp-content/themes/roots/shelveit/img/spines/dew/398.2_19.jpg" width="1" height="1" alt="preloadedimage"> -->
+
+<img class="bookImage booksDEW" data-status="1" data-booktype="booksDEW" src="../wp-content/themes/roots/shelveit/img/spines/dew/818_CRO.jpg" width="1" height="1" alt="preloadedimage">
+<img class="bookImage booksDEW" data-status="1" data-booktype="booksDEW" src="../wp-content/themes/roots/shelveit/img/spines/dew/001.944_URI.jpg" width="1" height="1" alt="preloadedimage">
+
+<img class="bookImage booksDEW" data-status="1" data-booktype="booksDEW" src="../wp-content/themes/roots/shelveit/img/spines/dew/811_VIB.jpg" width="1" height="1" alt="preloadedimage">
+<img class="bookImage booksDEW" data-status="1" data-booktype="booksDEW" src="../wp-content/themes/roots/shelveit/img/spines/dew/529_MAR.jpg" width="1" height="1" alt="preloadedimage">
+<img class="bookImage booksDEW" data-status="1" data-booktype="booksDEW" src="../wp-content/themes/roots/shelveit/img/spines/dew/537_HAW.jpg" width="1" height="1" alt="preloadedimage">
+
+<img class="bookImage booksDEW" data-status="1" data-booktype="booksDEW" src="../wp-content/themes/roots/shelveit/img/spines/dew/636.8_LIG.jpg" width="1" height="1" alt="preloadedimage">
+<img class="bookImage booksDEW" data-status="1" data-booktype="booksDEW" src="../wp-content/themes/roots/shelveit/img/spines/dew/983_FRA.jpg" width="1" height="1" alt="preloadedimage">
+<img class="bookImage booksDEW" data-status="1" data-booktype="booksDEW" src="../wp-content/themes/roots/shelveit/img/spines/dew/595.78_VIB.jpg" width="1" height="1" alt="preloadedimage"> 
+<img class="bookImage booksDEW" data-status="1" data-booktype="booksDEW" src="../wp-content/themes/roots/shelveit/img/spines/dew/917_HAZ.jpg" width="1" height="1" alt="preloadedimage">
+
+</div>
+
+
+<div style='display: none' class='game-type-stored'>0</div>
+
+    <!-- scripts -->
+    <!-- <script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script> -->
+    <script src="//ajax.googleapis.com/ajax/libs/jqueryui/1.10.0/jquery-ui.min.js"></script>
+    <script src="../wp-content/themes/roots/shelveit/js/vendors/jquery.ui.touch-punch.min.js"></script>
+    
+   <script src="../wp-content/themes/roots/shelveit/js/shelve.min.js"></script> 
+
+  
+ <!-- <script src="../wp-content/themes/roots/shelveit/js/books.js"> </script>
+     <script src="../wp-content/themes/roots/shelveit/js/check.js"> </script>
+     <script src="../wp-content/themes/roots/shelveit/js/index.js"> </script>
+     <script src="../wp-content/themes/roots/shelveit/js/UIcontrols.js"> </script>
+-->
+
+
+    <!-- for sortable ui -->
+    <script>
+    $(function() {
+        $( "#sortable" ).sortable({
+         containment: '#wrapper',
+         revert: true }); 
+        
+        $('.show-abc').click(function(){
+            
+            if ( $(this).hasClass('hiding') ) {
+                $(this).removeClass('hiding').addClass('showing');
+                $(this).text('Hide Alphabet');    
+            }
+            else {
+                $(this).removeClass('showing').addClass('hiding');
+                $(this).text('Show Alphabet');    
+            }
+            
+            $('#abc-wrapper').fadeToggle();
+            return false;
+        })
+         
+    });
+    
+
+    
+    </script>
+    
+</div> <!-- //span12 -->
+</div> <!-- //row -->      </div><!-- /.main -->
+
+          </div><!-- /.content -->
+  </div><!-- /.wrap -->
+
+
+
+
+
+
+
+</body>
+</html>
+
+<!-- Performance optimized by W3 Total Cache. Learn more: http://www.w3-edge.com/wordpress-plugins/
+
+Page Caching using disk: enhanced
+
+ Served from: www.mrs-lodges-library.com @ 2020-08-29 17:13:27 by W3 Total Cache -->

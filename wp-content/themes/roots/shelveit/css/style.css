@@ -1,0 +1,703 @@
+body{
+	margin: 0;
+	font-family: 'Coming Soon', cursive;
+	background-image:url('../img/background.png');
+}
+
+h1, h2, h3, h4, h5, p, li, ul {
+	font-family: 'Coming Soon', cursive;
+}
+
+.instruction {
+	font-family: 'Coming Soon', cursive;
+	font-size: 34px;
+	text-align: center;
+	padding: 15px;
+	margin-bottom: 15px;
+
+}
+
+	.about .instruction {
+		padding-bottom: 0;
+	}
+
+div#preload { display: none; }
+
+
+.copyright {
+	position: absolute;
+	bottom: 0;
+	left: 5px;
+	color: white;
+}
+
+.copyright small{
+    font-size: 12px;
+}
+
+
+
+#cssCheck {
+	position: relative;
+	left: 0;
+	top: 0;
+	background: #FCF8E3;
+	border: 1px solid #FBEED5;
+	font-size: 18px;
+	color: #FF5050;
+	line-height: 30px;
+		
+	-webkit-box-shadow: 0px 0px 22px rgba(50, 50, 50, 0.88);
+	-moz-box-shadow:    0px 0px 22px rgba(50, 50, 50, 0.88);
+	box-shadow:         0px 0px 22px rgba(50, 50, 50, 0.88);
+
+}
+
+	#cssCheck img {
+		padding: 0 10px 0 20px;
+	}
+
+
+
+
+/* Full iPad Wrapper */
+#wrapper {
+	border: 7px solid #92BB2A;
+	margin: 10px auto;
+	padding: 0;
+	position: relative;
+	top: 0px;
+	width: 900px;
+	height: 590px;
+	background-image:url('../img/shelf.png');
+	background-size: 100% 100%;
+	
+
+
+		}	
+
+/* Container for books to be sorted AKA the shelf */
+#sortable { 
+	position: relative;
+	top: 86px;
+	left: 1px;
+  	margin: 0 auto; 
+  	padding: 0; 
+  	width: 790px;
+  	height: 435px;
+  }
+  
+  
+/* 
+	  INDIVIDUAL BOOKS
+ .spineContainer: Container for image for jQuery sortable feature
+ .spine: Controls image element
+
+*/
+
+.spineContainer, .spine {
+	height: 435px;
+	width: 91px;
+
+	}
+
+	.spineContainer {
+		position: relative;
+		float: left;
+		margin-left: 3px;
+		margin-right: 3px;
+		}
+
+
+
+
+/* BUTTONS
+######################################################################*/
+
+.btn1, .btn2, .btn-check, .btn-big, .reload {
+
+	font-family: 'Coming Soon', cursive;
+	 background: transparent;
+
+	border: white 2px solid;
+
+	color: white;
+	font-weight: 900;	
+	padding: 5px 10px;
+	
+	-webkit-border-radius: 9px;
+	-moz-border-radius: 9px;
+	border-radius: 9px;
+	
+	-webkit-box-shadow: rgba(0,0,0,1) 0 1px 0;
+	-moz-box-shadow: rgba(0,0,0,1) 0 1px 0;
+	box-shadow: rgba(0,0,0,1) 0 1px 0;
+		
+	text-decoration: none;
+	vertical-align: middle;
+	
+	//-webkit-tap-highlight-color:rgba(0,0,0,0);
+
+   }
+   
+
+	.btn-big {
+		width: 240px;
+		font-size: 20px;
+	}
+
+
+	.btn1 {
+	 	width: 230px;
+		font-size: 26px;
+		height: 75px;
+		margin-bottom: 15px;
+		color: white;
+		line-height: 25px;
+
+	}
+	
+	.btn2 {
+		width: 160px;
+		height: 50px;
+		font-size: 20px;
+
+	}
+
+
+/* show demo button in how-to pop-out */
+.reload {
+	position: absolute;
+	left: 265px;
+	font-size: 24px;
+		width: 260px;
+}
+
+
+
+/* 3D button effect using text shadow */
+
+.btn1:active, .close-menu-btn:active, .btn-close-newgame:active, .howtoBackImg:active, .aboutBackImg:active {
+	/*color: transparent;*/
+	/*text-shadow: 2px 2px 0px rgba(255, 255, 255, 1);			*/
+	outline: none;
+	
+}
+	
+	
+	
+	
+
+	/* Close and open buttons
+	-------------------------------------------- */
+
+	.btn-open-menu, .btn-close-newgame, .close-menu-btn, .howtoBackImg, .aboutBackImg, .typeBackImg  {
+		position: absolute;
+		background: transparent;
+
+
+		line-height: 24px;
+		
+		font-weight: 900;
+		font-size: 22px;
+		color: rgb(255, 90, 90);
+	font-family: 'Coming Soon', cursive;
+
+
+	}
+
+		.btn-open-menu {
+			-webkit-border-radius: 9px;
+			-moz-border-radius: 9px;
+			border-radius: 9px;
+
+		}
+
+		.btn-open-menu {
+			width: 155px;
+			height: 45px;
+            padding-top: 10px;
+			padding-bottom: 18px;
+
+		}
+
+
+
+		/*.btn-close-newgame {*/
+		/*	width: 100px;*/
+		/*	height: 35px;*/
+		/*	color: white;*/
+		/*	font-size: 30px;*/
+		/*	bottom: 1px;*/
+		/*	left: 115px;*/
+		/*	border: transparent;*/
+
+		/*}*/
+
+.btn-close-newgame {
+    width: 44px;
+    height: 44px;
+    color: #000;
+    font-size: 30px;
+    top: -25px;
+    right: -25px;
+    background: #BCA990;
+    border-radius: 50%;
+    border: none;
+    padding-left: .3em;
+    padding-top: 0.3em;
+}
+
+
+
+			/* Main Menu button Container */
+			#mainMenuBtn {
+				position: absolute;
+				bottom:50px;
+				left: 380px;
+
+				}
+
+
+/* Close Main Menu Button */
+
+
+.close-menu-btn {
+    right: -29px;
+    font-size: 35px;
+    padding-top: 8px;
+    top: -26px;
+    border: none;
+    border-radius: 50%;
+    color: #000;
+    height: 46px;
+    width: 46px;
+    background: #BCA990;
+}
+
+	
+
+
+/*  Button for closing slide-ups for 'How to play' and 'about' pages  */
+
+/*.howtoBackImg {*/
+/*	position: absolute;*/
+/*	bottom: 1px;*/
+/*	left: 363px;*/
+/*	text-align: center;*/
+/*	font-size: 35px;*/
+/*	color: white;*/
+/*	border: transparent;*/
+/*	height: 40px;*/
+/*	width: 100px;*/
+/*	}*/
+	
+.howtoBackImg {
+    position: absolute;
+    top: -21px;
+    right: -26px;
+    text-align: center;
+    font-size: 35px;
+    color: #000;
+    border: none;
+    height: 44px;
+    width: 44px;
+    border-radius: 50%;
+    background: #BCA990;
+    padding-top: .3em;
+}
+
+
+
+/*.aboutBackImg {*/
+/*	position: absolute;*/
+/*	bottom: 5px;*/
+/*	left: 370px;*/
+/*	font-size: 35px;*/
+/*	height: 40px;*/
+/*	width: 100px;*/
+/*	color: white;*/
+/*	border: transparent;*/
+/*	}*/
+
+.aboutBackImg {	
+    position: absolute;
+    top: -29px;
+    right: -30px;
+    font-size: 35px;
+    height: 53px;
+    width: 52px;
+    border-radius: 50%;
+    color: #000;
+    border: 4px solid #BCA990;
+    background: #BCA990;
+    padding-top: 10px;
+}
+	
+
+
+
+
+.checkorder {
+	position: absolute;
+	top: 0px;
+	left: 370px;
+	width: 180px;
+	
+	height: 35px;
+	margin-top: 1px;
+	font-size: 20px;
+	font-family: 'Coming Soon', cursive;
+
+	
+}
+	
+
+
+	
+	
+
+/* MENU INTERFACE
+######################################################################*/
+
+
+
+
+/* MAIN MENU POP-OUT */
+	
+#menu,
+#new-game-type {
+	font-family: 'Coming Soon', cursive;
+
+	background: url('../img/board.png');
+	border: 8px solid #BCA990;
+	box-shadow: 0px 0px 7px #000;
+
+	color: white;
+
+
+	text-align: left;
+	height: 410px;
+	width: 325px;
+
+	position: absolute;
+	top: 40px;
+	left: 290px;	
+	padding-top: 20px;
+
+	-webkit-border-radius: 9px;
+	-moz-border-radius: 9px;
+	border-radius: 9px;
+		
+	}
+	
+	
+#new-game-type {
+	height: 320px;
+}
+	
+
+		/* ADD FILTER FOR ONLY DROP DOWN BUTTONS MORE SPACE */
+		
+		#menu ul, #menu li, 
+		#new-game ul, #new-game li, 
+		#new-game-type ul, #new-game-type li {		
+			
+		margin: 0;
+		padding: 0 0 5px 0;		
+		list-style-type: none;
+		text-align: center;		
+		}
+	
+	
+		#menu h1 {
+			text-align: center;
+			margin-top: 5px;
+			margin-bottom: 30px;
+			font-size: 50px;
+		}
+
+
+
+
+/* MENU POP-OUTS FROM BOTTOM OF SCREEN
+######################################################################*/
+
+
+#about a:link, #about a:visited {
+	color: white;
+	text-decoration: underline;
+	
+}
+
+
+.howto, .about {
+
+	position: absolute;
+	left: 25px;
+
+	z-index: 1;
+	margin: 15px 0px;
+	padding: 20px 20px 10px 20px;
+	
+
+	background: url('../img/board.png');
+	border: 8px solid #BCA990;
+	box-shadow: 0px 0px 7px #000;
+
+	color: white;
+
+	
+	-webkit-border-radius: 10px;
+	-moz-border-radius: 10px;
+	border-radius: 10px;
+	font: bold 12px verdana;
+
+	
+}
+
+.howto {
+	
+	top: 0px;
+	text-align: left;
+	padding: 10px 40px;
+	width: 750px;	
+	height: 495px;
+
+
+	}
+
+
+.about {
+	top: 23px;
+	text-align: left;
+	padding: 10px 40px;	
+	width: 750px;	
+	height: 450px;
+
+	}
+	
+	
+	.about p {
+		font-size: 14px;
+		font-weight: 100;
+	}
+	
+
+	.howto ul {
+		margin-bottom: 0;
+	}
+	
+	.howto ul li, .about ul li {
+		list-style-type: circle;
+		
+	}
+
+	.howto p, .about p{
+		font-size: 22px;
+		padding-bottom: 6px;
+		line-height: 34px;
+
+	}
+	
+	.howto h2 {
+		font-size: 22px;
+		padding: 0px;
+		margin: 0;
+		font-weight: 500;
+	}
+	
+	
+	.howto li {
+		font-size: 20px;
+		line-height: 28px;
+		font-weight: 200;
+	}
+	
+	
+	
+	
+
+
+
+/* NEW GAME POPOUT
+######################################################################*/
+
+/* NOTE: Gets ul and li properties from #menu ul, #menu li ???????????? 
+*/
+
+#new-game {
+	background: url('../img/board.png');
+	color: white;
+	border: 8px solid #BCA990;
+	box-shadow: 0px 0px 7px #000;
+
+	padding-bottom: 10px;
+
+	position: absolute;
+	top: 115px;
+	left: 290px;	
+	
+	height: 390px;
+	width: 315px;
+	
+	text-align: left;
+
+	-webkit-border-radius: 10px;
+	-moz-border-radius: 10px;
+	border-radius: 10px;
+		
+	}
+
+		#new-game li, #new-game ul {
+			padding-bottom: 5px;
+		}
+
+
+#small-owl {
+    width: 130px;
+    left: 95px;
+    top: -129px;
+    position: absolute;
+}
+
+
+
+
+/* NOTIFICATIONS
+######################################################################*/
+
+
+#bubble-fail, #bubble-success {
+	width: 400px;
+	height: 370px;
+	
+	position: absolute;
+	right: 50px;
+	bottom: 50px;
+
+	
+}
+
+
+
+
+/* LINK BACK TO MRS LODGES LIBRARY
+######################################################################*/
+
+#logo {
+	position: absolute;
+	top: 0px;
+	left: 5px;
+}
+
+	#logo img {
+		max-width: 30px;
+	}
+
+#logo-text {
+	font-size: 16px;
+	color: white;
+	position: absolute;
+	top: 15px;
+	left: 40px;
+	width: 275px;
+	font-family: 'Delius', cursive;
+
+}
+
+
+a:link, a:visited {
+	color: white;
+	text-decoration: none;
+
+}
+
+
+
+
+/* MISC FORMATTING
+################################################# */
+	
+	
+.center { text-align: center; }
+
+.extraPad { padding-left: 100px; }
+
+
+
+small {
+	font-size: 16px;
+	margin: 0;
+	padding: 0;
+}
+
+
+
+
+.button {
+	border: none;
+	display: inline-block;
+	box-shadow: inset 0px 0px 0px 1px rgba(0,0,0,0.2),
+			    inset 0px -5px 0px 0px rgba(0,0,0,0.3),
+				inset 0px 2px 0px 0px rgba(255,255,255,0.5);
+	-webkit-border-radius: 5px;
+	-moz-border-radius: 5px;
+	border-radius: 5px;
+	overflow: hidden;
+	
+	
+//	text-shadow: 0px 1px 1px #fff;
+	cursor: pointer;
+	color: #302822;
+	padding: 0 15px;
+}
+
+.button:active {
+	box-shadow: inset 0px 0px 0px 1px rgba(0,0,0,0.2),
+			    inset 0px -2px 0px 0px rgba(0,0,0,0.3),
+				inset 0px 2px 0px 0px rgba(255,255,255,0.5);
+	top: 2px;
+}
+
+.button div {
+	color: rgba(0,0,0,0.7);
+	text-shadow: 1px 1px 0px rgba(255,255,255,0.4);
+}
+
+.wood {
+	background: url('../img/wood.png');
+
+}
+
+
+.show-abc{
+	position: absolute;
+	right: 0;
+	top: 0;
+	padding-top: .6em;
+	padding-right: .7em;
+
+}
+
+#abc-wrapper{
+	background: rgba(166,128,103,0.7);
+	padding: 5px 39px 5px 20px;
+	z-index: 0;
+	top: 47px;
+	margin: 0 auto;
+	position: relative;
+	width: 758px;
+	border-radius: 4px;
+	margin-bottom: -30px;
+}
+
+#abc-inner{
+	font-weight: 900;
+	font-size: 28px;
+	width: 1900px;
+	position: relative;
+	top: 2px;
+	font-size: 21px;
+	letter-spacing: .2em;
+}
